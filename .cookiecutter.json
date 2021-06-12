@@ -1,0 +1,37 @@
+{
+    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/d6256863-6d33-47eb-adac-41f96a59044c/template",
+    "access": "fp-mt",
+    "artifact_id": "java-kotlin-lib-test-Ae3oo",
+    "component_id": "java-kotlin-lib-test-Ae3oo",
+    "description": "This project was created from the template-java-kotlin-library template.",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/java-kotlin-lib-test-Ae3oo",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-Ae3oo",
+            "name": "java-kotlin-lib-test-Ae3oo",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/java-kotlin-lib-test-Ae3oo",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "javakotlinlibtestAe3oo",
+    "owner": "Product Infrastructure",
+    "repo_owner": "fp-mt-test-org",
+    "storePath": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-Ae3oo"
+}
